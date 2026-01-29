@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://openbookings.co/logo.png" width="120" alt="OpenBookings Logo" />
+  <img src="https://images.openbookings.co/Openbookings-logo-v2.png" width="120" alt="OpenBookings Logo" />
 </p>
 
 <h1 align="center">OpenBookings</h1>
