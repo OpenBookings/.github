@@ -2,7 +2,7 @@
   <img src="https://cdn.openbookings.co/Openbookings-logo-v2.png" width="120" alt="OpenBookings Logo" />
 </p>
 
-<h1 align="center">OpenBookings</h1>
+<h1 align="center">OpenBookings BV.</h1>
 
 <p align="center">
   The open-source booking platform that cuts out the middleman — and the commissions.
