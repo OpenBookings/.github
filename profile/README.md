@@ -5,7 +5,7 @@
 <h1 align="center">OpenBookings BV.</h1>
 
 <p align="center">
-  The open-source booking platform that cuts out the middleman — and the commissions.
+  The open-source booking platform that cuts out the commissions.
 </p>
 
 <p align="center">
@@ -32,8 +32,6 @@ Our mission is simple:
 | Project | Description | Status |
 |--------|-------------|--------|
 | **OpenBookings** | Main platform for searching & booking properties | 🟢 Active |
-| **Search_API** | High-performance search engine for listings & availability | 🟢 Active |
-| **FX_exchange** | Currency conversion & rate normalization service | 🟡 In progress |
 
 ---
 
@@ -49,10 +47,7 @@ Our mission is simple:
 
 ## 🛠 Tech Stack
 
-*(Adjust if needed)*
-
 - **Frontend:** Next.js with Bun
-- **Backend:** Fastify with Bun
 - **APIs:** REST
 - **Infra:** Docker, CI/CD
 - **Data:** PostgreSQL, Redis
